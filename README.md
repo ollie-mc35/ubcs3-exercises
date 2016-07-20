@@ -1,4 +1,4 @@
 # ubcs3-exercises
 A collection of exercises from the UBC Scientific Software Seminar
 
-project.
+project. The notebook is called project.ipynb
